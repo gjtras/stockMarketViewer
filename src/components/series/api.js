@@ -5,7 +5,7 @@ const instance = axios.create({
     headers: {
         'content-type':'application/octet-stream',
         'x-rapidapi-host':'alpha-vantage.p.rapidapi.com',
-        'x-rapidapi-key': 'acf69a0d89msh5b0524780e29fadp12ed3ajsn1ddd69758a7a'
+        'x-rapidapi-key': //API KEY GOES HERE
     }
 });
 
